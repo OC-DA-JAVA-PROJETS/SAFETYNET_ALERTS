@@ -1,6 +1,6 @@
-package com.safetynet.safetynetalerts.service.admin;
+package com.safetynet.safetynetalerts.service;
 
-import com.safetynet.safetynetalerts.dto.admin.PersonAdminDTO;
+import com.safetynet.safetynetalerts.dto.PersonAdminDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

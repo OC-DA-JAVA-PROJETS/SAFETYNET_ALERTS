@@ -1,7 +1,7 @@
-package com.safetynet.safetynetalerts.controller.admin;
+package com.safetynet.safetynetalerts.controller;
 
-import com.safetynet.safetynetalerts.dto.admin.PersonAdminDTO;
-import com.safetynet.safetynetalerts.service.admin.PersonServiceAdmin;
+import com.safetynet.safetynetalerts.dto.PersonAdminDTO;
+import com.safetynet.safetynetalerts.service.PersonServiceAdmin;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
